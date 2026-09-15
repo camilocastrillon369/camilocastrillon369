@@ -23,13 +23,8 @@ Estoy consolidando SQL, Python y Power BI a través de proyectos prácticos apli
 Cómo trabajo
 
 -Pensamiento analítico orientado a resultados
+
 -Aprendizaje rápido y autogestionado
+
 -Trabajo en equipo y comunicación de hallazgos a audiencias no técnicas
 
-Contacto
-
-LinkedIn: camilo-castrillon-betancourt
-
-correo: camilocastrillon369@gmail.com
-
-Madrid, España
