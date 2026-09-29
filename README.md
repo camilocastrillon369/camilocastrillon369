@@ -16,7 +16,7 @@ Analista de innovación empresarial — investigación y desarrollo de propuesta
 
 Becario de mercadeo — investigación de mercados y benchmarking, análisis e interpretación de datos recolectados, presentación estadística de hallazgos a áreas interesadas.
 
-Actualmente aprendiendo
+Actualmente sigo aprendiendo
 
 Estoy consolidando SQL, Python y Power BI a través de proyectos prácticos aplicados a casos de negocio reales, con foco en construir un portafolio de análisis de principio a fin (datos → limpieza → análisis → visualización → conclusiones).
 
