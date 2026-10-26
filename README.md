@@ -1,6 +1,6 @@
 ¡Hola! Soy Camilo Castrillón
 
-Analista de datos junior en formación. Estoy avanzando del mercadeo e innovación al análisis de datos
+Analista de datos en formación. Estoy avanzando del mercadeo e innovación al análisis de datos
 
 Soy profesional en Mercadeo con Máster en Data Analytics (Pontia.Tech, 2026). Vengo del mundo de la investigación de mercados y la innovación empresarial, donde ya trabajaba con recolección, estandarización e interpretación de datos y ahora estoy sumando las herramientas técnicas para convertir esa experiencia en análisis de datos profesional.
 
